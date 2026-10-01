@@ -1,0 +1,9 @@
+experiment_name: "pcmci_baseline_v1"
+random_seeds: [42, 1024, 2026]
+data:
+  dataset_name: "volve_synthetic"
+  sliding_window_size: 100
+model:
+  algorithm: "pcmci_plus"
+  pc_alpha: 0.05
+  max_lag: 5

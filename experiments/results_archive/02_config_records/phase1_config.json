@@ -1,0 +1,25 @@
+{
+  "phase": "Phase 1 - Baseline Reproduction & Comparison",
+  "execution_date": "2026-09-30",
+  "global_random_seed": 42,
+  "environment": {
+    "os": "Windows",
+    "python": "3.9+",
+    "frameworks": ["tigramite", "causalnex", "scikit-learn", "torch"]
+  },
+  "simulation_settings": {
+    "time_steps_T": 1000,
+    "max_lag": 2,
+    "node_scales": [5, 10, 15]
+  },
+  "algorithms_config": {
+    "PCMCI": {
+      "conditional_independence_test": "ParCorr",
+      "tested_pc_alphas": [0.1, 0.05, 0.01, 0.001]
+    },
+    "DYNOTEARS": {
+      "linear_mode": {"w_threshold": 0.01, "standard_scaler": true},
+      "nonlinear_mode": {"w_threshold": 0.05, "standard_scaler": false, "injected_physics": "sin_and_quadratic"}
+    }
+  }
+}

@@ -1,0 +1,4 @@
+2026-09-30 16:57:29,477 - INFO - [PCMCI 超参数测试] 当前 pc_alpha = 0.1 -> SHD=15 | Precision=0.7115 | Recall=1.0000 | F1=0.8315
+2026-09-30 16:57:30,744 - INFO - [PCMCI 超参数测试] 当前 pc_alpha = 0.05 -> SHD=14 | Precision=0.7255 | Recall=1.0000 | F1=0.8409
+2026-09-30 17:49:21,208 - INFO - [DYNOTEARS 非线性挑战] 15 节点测试 -> SHD=37 | Precision=0.0 | Recall=0.0 | F1=0.0 (触发线性假设失效/早停)
+2026-09-30 18:25:59,571 - INFO - [DYNOTEARS 线性主场] 15 节点测试 -> SHD=1 | Precision=1.0 | Recall=0.973 | F1=0.9863 (耗时 0.1508s)
