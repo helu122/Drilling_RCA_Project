@@ -4,3 +4,263 @@ WOB,klbf,Weight on Bit,Yes,1
 ROP,m/h,Rate of Penetration,Yes,1
 SPP,psi,Standpipe Pressure,Yes,1
 RPM,rpm,Rotary Speed,Yes,1
+Unnamed: 0.1,Check CSV,Extracted from CSV,No,2
+Unnamed: 0,Check CSV,Extracted from CSV,No,2
+Measured Depth m,Check CSV,Extracted from CSV,No,1
+TOFB s,Check CSV,Extracted from CSV,No,2
+AVG_CONF unitless,Check CSV,Extracted from CSV,No,1
+MIN_CONF unitless,Check CSV,Extracted from CSV,No,1
+Average Rotary Speed rpm,Check CSV,Extracted from CSV,Yes,2
+STUCK_RT unitless,Check CSV,Extracted from CSV,No,2
+Corrected Surface Weight on Bit kkgf,Check CSV,Extracted from CSV,No,2
+Corrected Total Hookload kkgf,Check CSV,Extracted from CSV,No,2
+MWD Turbine RPM rpm,Check CSV,Extracted from CSV,Yes,2
+MWD Raw Gamma Ray 1/s,Check CSV,Extracted from CSV,No,2
+MWD Continuous Inclination dega,Check CSV,Extracted from CSV,No,2
+Pump 2 Stroke Rate 1/min,Check CSV,Extracted from CSV,No,2
+Rate of Penetration m/h,Check CSV,Extracted from CSV,No,2
+Bit Drill Time h,Check CSV,Extracted from CSV,No,2
+Corrected Hookload kkgf,Check CSV,Extracted from CSV,No,2
+MWD Gravity Toolface dega,Check CSV,Extracted from CSV,No,2
+Mud Density Out g/cm3,Check CSV,Extracted from CSV,No,2
+MWD GR Bit Confidence Flag %,Check CSV,Extracted from CSV,No,2
+Pump Time h,Check CSV,Extracted from CSV,No,2
+PowerUP Shock Rate 1/s,Check CSV,Extracted from CSV,No,2
+Total SPM 1/min,Check CSV,Extracted from CSV,No,2
+HKLO kkgf,Check CSV,Extracted from CSV,No,2
+Average Hookload kkgf,Check CSV,Extracted from CSV,No,2
+Total Hookload kkgf,Check CSV,Extracted from CSV,No,2
+DRET unitless,Check CSV,Extracted from CSV,No,2
+Extrapolated Hole TVD m,Check CSV,Extracted from CSV,No,2
+MWD Gamma Ray (API BH corrected) gAPI,Check CSV,Extracted from CSV,No,2
+Pump 1 Strokes unitless,Check CSV,Extracted from CSV,No,1
+ROPIH s/m,Check CSV,Extracted from CSV,Yes,1
+EDRT unitless,Check CSV,Extracted from CSV,No,2
+Pump 1 Stroke Rate 1/min,Check CSV,Extracted from CSV,No,2
+Rate of penetration m/h,Check CSV,Extracted from CSV,No,2
+Iso-butane (IC4) ppm,Check CSV,Extracted from CSV,No,2
+Bit Drilling Run m,Check CSV,Extracted from CSV,No,1
+MWD Total Shocks unitless,Check CSV,Extracted from CSV,No,2
+Total Bit Revolutions unitless,Check CSV,Extracted from CSV,No,2
+Nor-butane (NC4) ppm,Check CSV,Extracted from CSV,No,2
+Lag Depth (TVD) m,Check CSV,Extracted from CSV,No,2
+Pump 2 Strokes unitless,Check CSV,Extracted from CSV,No,1
+Corr. Drilling Exponent unitless,Check CSV,Extracted from CSV,No,1
+Total Vertical Depth m,Check CSV,Extracted from CSV,No,2
+Ethane (C2) ppm,Check CSV,Extracted from CSV,No,2
+TMP In degC,Check CSV,Extracted from CSV,No,2
+Mud Density In g/cm3,Check CSV,Extracted from CSV,No,2
+n-Penthane ppm,Check CSV,Extracted from CSV,No,2
+Mud Density In g/cm3.1,Check CSV,Extracted from CSV,No,1
+Weight on Bit kkgf,Check CSV,Extracted from CSV,No,2
+Bit Revolutions  (cum) unitless,Check CSV,Extracted from CSV,No,1
+Averaged WOB kkgf,Check CSV,Extracted from CSV,Yes,2
+Hole Depth (TVD) m,Check CSV,Extracted from CSV,No,1
+MWD Shock Risk unitless,Check CSV,Extracted from CSV,No,2
+Bit run number unitless,Check CSV,Extracted from CSV,No,2
+RHX_RT unitless,Check CSV,Extracted from CSV,No,2
+Pump 3 Strokes unitless,Check CSV,Extracted from CSV,No,1
+Total Strokes unitless,Check CSV,Extracted from CSV,No,2
+Inverse ROP s/m,Check CSV,Extracted from CSV,Yes,2
+Pass Name unitless,Check CSV,Extracted from CSV,No,2
+Pump 4 Stroke Rate 1/min,Check CSV,Extracted from CSV,No,2
+Iso-pentane (IC5) ppm,Check CSV,Extracted from CSV,No,2
+Rig Mode unitless,Check CSV,Extracted from CSV,No,2
+MWD Shock Peak m/s2,Check CSV,Extracted from CSV,No,2
+Flow Pumps L/min,Check CSV,Extracted from CSV,Yes,2
+SPN Sp_RigMode 2hz unitless,Check CSV,Extracted from CSV,No,1
+Average Standpipe Pressure kPa,Check CSV,Extracted from CSV,No,2
+Bit Depth m,Check CSV,Extracted from CSV,No,2
+Rate of Penetration (5ft avg) m/h,Check CSV,Extracted from CSV,No,2
+Gas (avg) %,Check CSV,Extracted from CSV,Yes,2
+Propane (C3) ppm,Check CSV,Extracted from CSV,Yes,2
+"String weight (rot,avg) kkgf",Check CSV,Extracted from CSV,No,2
+TOBO s,Check CSV,Extracted from CSV,No,1
+AJAM_MWD unitless,Check CSV,Extracted from CSV,No,2
+Tank volume (active) m3,Check CSV,Extracted from CSV,No,2
+1/2ft ROP m/h,Check CSV,Extracted from CSV,Yes,2
+Weight On Hook kkgf,Check CSV,Extracted from CSV,No,2
+Hole depth (MD) m,Check CSV,Extracted from CSV,No,2
+Mud Flow In L/min,Check CSV,Extracted from CSV,Yes,2
+BHFG unitless,Check CSV,Extracted from CSV,No,2
+Temperature Out degC,Check CSV,Extracted from CSV,No,2
+Averaged TRQ kN.m,Check CSV,Extracted from CSV,Yes,2
+MWD Continuous Azimuth dega,Check CSV,Extracted from CSV,No,2
+RGX_RT unitless,Check CSV,Extracted from CSV,No,2
+MWD DNI Temperature degC,Check CSV,Extracted from CSV,No,2
+Bit Drilling Time h,Check CSV,Extracted from CSV,No,1
+HKLI kkgf,Check CSV,Extracted from CSV,No,2
+Average Surface Torque kN.m,Check CSV,Extracted from CSV,Yes,2
+Methane (C1) ppm,Check CSV,Extracted from CSV,No,2
+MWD Magnetic Toolface dega,Check CSV,Extracted from CSV,No,2
+Total Downhole RPM rpm,Check CSV,Extracted from CSV,Yes,2
+SHK3TM_RT min,Check CSV,Extracted from CSV,No,2
+Elapsed time in-slips s,Check CSV,Extracted from CSV,No,2
+Stand Pipe Pressure kPa,Check CSV,Extracted from CSV,No,2
+Pump 3 Stroke Rate 1/min,Check CSV,Extracted from CSV,No,2
+Averaged RPM rpm,Check CSV,Extracted from CSV,Yes,2
+Pump 4 Strokes unitless,Check CSV,Extracted from CSV,No,1
+Inverse ROP (5ft avg) s/m,Check CSV,Extracted from CSV,Yes,1
+S1AC kPa,Check CSV,Extracted from CSV,No,1
+S2AC kPa,Check CSV,Extracted from CSV,No,1
+IMWT g/cm3,Check CSV,Extracted from CSV,No,1
+OSTM s,Check CSV,Extracted from CSV,No,1
+nameWellbore,Check CSV,Extracted from CSV,No,2
+name,Check CSV,Extracted from CSV,No,2
+IMP/ARC Attenuation Conductivity 40-in. at 2 MHz mS/m,Check CSV,Extracted from CSV,No,2
+ARC Annular Pressure kPa,Check CSV,Extracted from CSV,No,2
+MWD Collar RPM rpm,Check CSV,Extracted from CSV,Yes,2
+IMP/ARC Non-BHcorr Phase-Shift Resistivity 28-in. at 2 MHz ohm.m,Check CSV,Extracted from CSV,No,2
+IMP/ARC Phase-Shift Conductivity 40-in. at 2 MHz mS/m,Check CSV,Extracted from CSV,No,2
+Annular Temperature degC,Check CSV,Extracted from CSV,No,2
+IMP/ARC Non-BHcorr Phase-Shift Resistivity 40-in. at 2 MHz ohm.m,Check CSV,Extracted from CSV,No,2
+ARC Gamma Ray (BH corrected) gAPI,Check CSV,Extracted from CSV,No,2
+IMP/ARC Non-BHcorr Attenuation Resistivity 40-in. at 2 MHz ohm.m,Check CSV,Extracted from CSV,No,2
+MWD Stick-Slip PKtoPK RPM rpm,Check CSV,Extracted from CSV,Yes,2
+IMP/ARC Non-BHcorr Attenuation Resistivity 28-in. at 2 MHz ohm.m,Check CSV,Extracted from CSV,No,2
+IMP/ARC Phase-Shift Conductivity 28-in. at 2 MHz mS/m,Check CSV,Extracted from CSV,No,2
+Time s,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 5 m3,Check CSV,Extracted from CSV,No,1
+Block Velocity m/s,Check CSV,Extracted from CSV,No,1
+SPP/SPM2 unitless,Check CSV,Extracted from CSV,Yes,1
+MAG_DEC dega,Check CSV,Extracted from CSV,No,1
+RPM30s rpm,Check CSV,Extracted from CSV,Yes,1
+MudPit Volume Average 9 m3,Check CSV,Extracted from CSV,No,1
+TripTank Volume 1 m3,Check CSV,Extracted from CSV,No,1
+Casing (choke) pressure kPa,Check CSV,Extracted from CSV,No,1
+SHYC_USL unitless,Check CSV,Extracted from CSV,No,1
+TTONB s,Check CSV,Extracted from CSV,No,1
+Fill/gain volume obs. (cum) m3,Check CSV,Extracted from CSV,No,1
+Rate of Penetration 2 minute average m/h,Check CSV,Extracted from CSV,No,1
+CUREDT_RT unitless,Check CSV,Extracted from CSV,No,1
+SRV_GZ unitless,Check CSV,Extracted from CSV,No,1
+SPP-VPWD kPa,Check CSV,Extracted from CSV,Yes,1
+On Bottom Status unitless,Check CSV,Extracted from CSV,No,1
+HKLD30s kkgf,Check CSV,Extracted from CSV,Yes,1
+MudPit Volume Average 7 m3,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 12 m3,Check CSV,Extracted from CSV,No,1
+SGZC_USL unitless,Check CSV,Extracted from CSV,No,1
+MWD Frame Position unitless,Check CSV,Extracted from CSV,No,1
+Trip/Ream/Drill On Bottom Stat unitless,Check CSV,Extracted from CSV,No,1
+SRVAZI dega,Check CSV,Extracted from CSV,No,1
+MWD Transmitted Counts unitless,Check CSV,Extracted from CSV,No,1
+TOTAL_CORR dega,Check CSV,Extracted from CSV,No,1
+Time chrom sample unitless,Check CSV,Extracted from CSV,No,1
+TOFF s,Check CSV,Extracted from CSV,No,1
+MWD_SLIDE unitless,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 8 m3,Check CSV,Extracted from CSV,No,1
+Pump Speed 3 1/min,Check CSV,Extracted from CSV,No,1
+ECD_MW_IN g/cm3,Check CSV,Extracted from CSV,Yes,1
+Tank 11 Volume m3,Check CSV,Extracted from CSV,No,1
+DNI_MP m,Check CSV,Extracted from CSV,No,1
+SRVTVD m,Check CSV,Extracted from CSV,No,1
+Running speed-down (max) m/s,Check CSV,Extracted from CSV,No,1
+SWOB30s kkgf,Check CSV,Extracted from CSV,Yes,1
+TRPOUT_CT unitless,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 14 m3,Check CSV,Extracted from CSV,No,1
+SRVEW m,Check CSV,Extracted from CSV,No,1
+SGYC_USL unitless,Check CSV,Extracted from CSV,No,1
+Bit Depth (MD) m,Check CSV,Extracted from CSV,No,1
+Lagged Total Depth m,Check CSV,Extracted from CSV,No,1
+Total Depth m,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 6 m3,Check CSV,Extracted from CSV,No,1
+Rotating friction factor unitless,Check CSV,Extracted from CSV,No,1
+Running speed-up (max) m/s,Check CSV,Extracted from CSV,No,1
+TFLO30s L/min,Check CSV,Extracted from CSV,No,1
+GRID_CORR dega,Check CSV,Extracted from CSV,No,1
+MWD Time Stamp s,Check CSV,Extracted from CSV,No,1
+MWD TF Bit Confidence Flag %,Check CSV,Extracted from CSV,No,1
+MWD Sync Status unitless,Check CSV,Extracted from CSV,No,1
+MWD DATP ID unitless,Check CSV,Extracted from CSV,No,1
+Pump Speed 1 1/min,Check CSV,Extracted from CSV,No,1
+SPR MWD_04 mwd unitless,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average13 m3,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 10 m3,Check CSV,Extracted from CSV,No,1
+SHY_USL unitless,Check CSV,Extracted from CSV,No,1
+SGX_USL unitless,Check CSV,Extracted from CSV,No,1
+Chromatograph Sample (TVD) m,Check CSV,Extracted from CSV,No,1
+SGZ_USL unitless,Check CSV,Extracted from CSV,No,1
+SRV_HZ unitless,Check CSV,Extracted from CSV,No,1
+Hookload (min) kkgf,Check CSV,Extracted from CSV,No,1
+TF_CORR dega,Check CSV,Extracted from CSV,No,1
+SRVDEPTH m,Check CSV,Extracted from CSV,No,1
+MWD Delay Time s,Check CSV,Extracted from CSV,No,1
+TRPM/SPM unitless,Check CSV,Extracted from CSV,Yes,1
+SHX_USL unitless,Check CSV,Extracted from CSV,No,1
+SIG_TQ30s kN.m,Check CSV,Extracted from CSV,Yes,1
+TOJ s,Check CSV,Extracted from CSV,No,1
+SHZ_USL unitless,Check CSV,Extracted from CSV,No,1
+SGY_USL unitless,Check CSV,Extracted from CSV,No,1
+Cement flowrate In (avg) m3/min,Check CSV,Extracted from CSV,Yes,1
+Maximum Hookload kkgf,Check CSV,Extracted from CSV,No,1
+MWD_BOT unitless,Check CSV,Extracted from CSV,No,1
+DRAG sliding friction factor unitless,Check CSV,Extracted from CSV,No,1
+Torque loss kN.m,Check CSV,Extracted from CSV,Yes,1
+Pump Speed 2 1/min,Check CSV,Extracted from CSV,No,1
+ROP30s m/h,Check CSV,Extracted from CSV,Yes,1
+Trip tank 2 volume m3,Check CSV,Extracted from CSV,No,1
+STOR-DTOR kN.m,Check CSV,Extracted from CSV,No,1
+FLOW-TRPM L/min,Check CSV,Extracted from CSV,Yes,1
+MudPit Volume Average 1 m3,Check CSV,Extracted from CSV,No,1
+SPP5s kPa,Check CSV,Extracted from CSV,Yes,1
+Bit Depth m.1,Check CSV,Extracted from CSV,No,1
+ATBT unitless,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 4 m3,Check CSV,Extracted from CSV,No,1
+Date of Chromatograph Sample unitless,Check CSV,Extracted from CSV,No,1
+SWOB-DWOB kkgf,Check CSV,Extracted from CSV,Yes,1
+MWD Frame ID unitless,Check CSV,Extracted from CSV,No,1
+BACC m/s2,Check CSV,Extracted from CSV,No,1
+Depth chrom sample (meas) m,Check CSV,Extracted from CSV,No,1
+SRV_GY unitless,Check CSV,Extracted from CSV,No,1
+RS_DSPM dega,Check CSV,Extracted from CSV,No,1
+TQ30s kN.m,Check CSV,Extracted from CSV,Yes,1
+MudPit Volume Average3 m3,Check CSV,Extracted from CSV,No,1
+SRV_GX unitless,Check CSV,Extracted from CSV,No,1
+BTVD m,Check CSV,Extracted from CSV,No,1
+Hook Height m,Check CSV,Extracted from CSV,No,1
+SPP-APWD kPa,Check CSV,Extracted from CSV,Yes,1
+TRPIN_CT unitless,Check CSV,Extracted from CSV,No,1
+DTOR*RPM unitless,Check CSV,Extracted from CSV,Yes,1
+SHZC_USL unitless,Check CSV,Extracted from CSV,No,1
+Block Position m,Check CSV,Extracted from CSV,No,1
+"Slips stat (1=Out,0=In) unitless",Check CSV,Extracted from CSV,No,1
+SIG_SPP5s kPa,Check CSV,Extracted from CSV,Yes,1
+SHXC_USL unitless,Check CSV,Extracted from CSV,No,1
+DPT_CONF unitless,Check CSV,Extracted from CSV,No,1
+Bit on Bottom unitless,Check CSV,Extracted from CSV,No,1
+MudPit Volume Average 2 m3,Check CSV,Extracted from CSV,No,1
+DRPM30s rpm,Check CSV,Extracted from CSV,Yes,1
+SRV_HY unitless,Check CSV,Extracted from CSV,No,1
+SRVTYPE unitless,Check CSV,Extracted from CSV,No,1
+SRVNS m,Check CSV,Extracted from CSV,No,1
+SRVINC dega,Check CSV,Extracted from CSV,No,1
+DNISTAT unitless,Check CSV,Extracted from CSV,No,1
+Tank volume change (active) m3,Check CSV,Extracted from CSV,No,1
+Continuous Survey Depth m,Check CSV,Extracted from CSV,No,1
+SRV_HX unitless,Check CSV,Extracted from CSV,No,1
+Rig Mode unitless.1,Check CSV,Extracted from CSV,No,1
+ARC Equivalent Circulating Density g/cm3,Check CSV,Extracted from CSV,Yes,1
+"Minimum Static Pressure, Real-Time kPa",Check CSV,Extracted from CSV,No,1
+IMP/ARC Attenuation Conductivity 28-in. at 2 MHz mS/m,Check CSV,Extracted from CSV,No,1
+"Minimum Equivalent Static Density, Real-Time g/cm3",Check CSV,Extracted from CSV,Yes,1
+"Equivalent Static Density, Real-Time g/cm3",Check CSV,Extracted from CSV,Yes,1
+ESD_DELAY_DEPTH m,Check CSV,Extracted from CSV,No,1
+PMAX_TM_RT unitless,Check CSV,Extracted from CSV,No,1
+"Maximum Static Pressure, Real-Time kPa",Check CSV,Extracted from CSV,No,1
+"Maximum Equivalent Static Density, Real-Time g/cm3",Check CSV,Extracted from CSV,Yes,1
+PESD_TM_RT unitless,Check CSV,Extracted from CSV,No,1
+PMIN_TM_RT unitless,Check CSV,Extracted from CSV,No,1
+"Static Pressure, Real-Time kPa",Check CSV,Extracted from CSV,No,1
+Time Time,Check CSV,Extracted from CSV,No,1
+WBSLITHOLOGY1 unitless,Check CSV,Extracted from CSV,No,1
+WBSLITHOLOGY5 unitless,Check CSV,Extracted from CSV,No,1
+WBSCALIPERMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+WBSTRAJECTORYMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+WBSLITHOLOGY4 unitless,Check CSV,Extracted from CSV,No,1
+WBSBITDEPMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+WBSLITHOLOGY3 unitless,Check CSV,Extracted from CSV,No,1
+WBSLITHOLOGY2 unitless,Check CSV,Extracted from CSV,No,1
+WBSTUBULARMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+WBSHOLEDEPMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+WBSWBGEOMETRYMNEMONIC unitless,Check CSV,Extracted from CSV,No,1
+DateTime parsed,Check CSV,Extracted from CSV,No,1
