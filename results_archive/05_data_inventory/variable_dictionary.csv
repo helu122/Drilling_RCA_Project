@@ -1,0 +1,6 @@
+﻿Mnemonic,Unit,Description,Is_Golden_Var,Found_In_Files_Count
+TIME,s,,No,1
+WOB,klbf,Weight on Bit,Yes,1
+ROP,m/h,Rate of Penetration,Yes,1
+SPP,psi,Standpipe Pressure,Yes,1
+RPM,rpm,Rotary Speed,Yes,1
